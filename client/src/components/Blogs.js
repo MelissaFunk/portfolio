@@ -1,7 +1,9 @@
 function Blogs() {
 
   return(
-    <h1>Blogs</h1>
+    <div className="blogs">
+      <h1>Blogs</h1>
+    </div>
   )
 }
 
