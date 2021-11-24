@@ -5,3 +5,8 @@ blog4 = Blog.create(title: "JavaScript Array Methods", link: "https://medium.com
 blog5 = Blog.create(title: "Rails Generators", link: "https://medium.com/@melissafunk85/rails-generators-d13a4a879e28", image: "https://miro.medium.com/max/700/1*-4Zn-s5Ro0Oft6VcKLfXWQ.png", minutes: 4)
 
 project1 = Project.create(title: "Hot Dog Lover", link: "https://hot-dog-lover.herokuapp.com/", youtube: "https://youtu.be/a4xBINdvanU", github: "https://github.com/MelissaFunk/hot-dog-lover-app", description: "Explore hot dog restaurants around San Francisco! Users can login/create an account to view restaurants and create a personalized hot dog. For the hot dog lover at heart ❤️ 🌭 ❤️", image: "https://i.imgur.com/R9JYj3d.png")
+
+aboutcard1 = AboutCard.create(image: "https://cdn-icons-png.flaticon.com/128/1152/1152946.png", title: "Ambitious", description: "Passionate about learning and self-development.")
+aboutcard2 = AboutCard.create(image: "https://cdn-icons-png.flaticon.com/128/1632/1632870.png", title: "Dedicated", description: "Persistant and focused about results.")
+aboutcard3 = AboutCard.create(image: "https://cdn-icons-png.flaticon.com/128/1584/1584892.png", title: "Quick", description: "Fast-paced learner and time-sensitive.")
+aboutcard4 = AboutCard.create(image: "https://cdn-icons-png.flaticon.com/128/1693/1693056.png", title: "Organized", description: "Penchant for details and writing clean code.")

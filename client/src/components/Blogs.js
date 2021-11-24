@@ -2,7 +2,7 @@ function Blogs() {
 
   return(
     <div className="blogs">
-      <h1>Blogs</h1>
+      <h1>BLOGS</h1>
     </div>
   )
 }
