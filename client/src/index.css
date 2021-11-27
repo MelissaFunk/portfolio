@@ -256,3 +256,60 @@ a:hover, a:link, a:visited, a:active {
   width: 60% !important;
   height: 100% !important;
 }
+
+/* CONTACT */
+
+.contact-form {
+  padding-top: 40px;
+  margin: 0 auto;
+  width: 500px;
+  height: 200px;
+}
+
+.input {
+  width: 45%;
+  margin-left: 20px;
+  margin-bottom: 20px;
+  height: 30px;
+  padding-left: 8px;
+  background-color: black;
+  border-color:rgb(185, 217, 245);
+  color:rgb(185, 217, 245);
+  border-style: solid;
+  border-radius: 4px;
+}
+   
+.input-msg {
+  height: 80px;
+  width: 94%;
+  margin-left: 20px;
+  padding-left: 8px;
+  padding-top: 4px;
+  background-color: black;
+  border-color:rgb(185, 217, 245);
+  color:rgb(185, 217, 245);
+  border-style: solid;
+  border-radius: 4px;
+  border-width: 2px;
+  margin-bottom: 20px;
+  font-family: 'Lato', sans-serif;
+}
+
+.contact-btn {
+  width: 30%;
+  height: 30px;
+  background: black;
+  border-color:rgb(185, 217, 245);
+  color:rgb(185, 217, 245);
+  border-style: solid;
+  border-radius: 4px;
+  border-width: 2px; 
+  margin-bottom: 20px
+}
+
+.contact-btn:hover {
+  background:rgb(185, 217, 245);
+  border-color:black;
+  color:black;
+  cursor: pointer
+}
