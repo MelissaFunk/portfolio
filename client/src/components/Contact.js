@@ -44,7 +44,7 @@ function Contact() {
           </div>
           <button className="contact-btn" onClick={submit}>Submit</button>
 
-            {emailSent ? <p>Thank you for your message, I will be in touch shortly!</p> : null}
+          {emailSent ? <p>Thank you for your message, I will be in touch shortly!</p> : null}
         </div>
       </div>
     );
