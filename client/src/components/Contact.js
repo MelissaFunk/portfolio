@@ -46,6 +46,9 @@ function Contact() {
 
           {emailSent ? <p>Thank you for your message, I will be in touch shortly!</p> : null}
         </div>
+        <div className="links">
+        <h3 ><a href="https://github.com/MelissaFunk" target="_blank">GitHub</a> | <a href="https://www.linkedin.com/in/melissa-funk-35778749/" target="_blank">LinkedIn</a></h3>
+        </div>
       </div>
     );
 };

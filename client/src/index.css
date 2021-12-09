@@ -313,3 +313,7 @@ a:hover, a:link, a:visited, a:active {
   color:black;
   cursor: pointer
 }
+
+.links {
+  margin-top: 80px
+}
