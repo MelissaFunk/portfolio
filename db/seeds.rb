@@ -6,6 +6,7 @@ blog2 = Blog.create(title: "Planning a Coding Project", link: "https://medium.co
 blog1 = Blog.create(title: "Changing Images Using Hover in CSS", link: "https://medium.com/@melissafunk85/changing-images-using-hover-97af51c0d8d0", image: "https://miro.medium.com/max/700/1*whMuSZ_AlAQx1KSVVG9p3g.png", minutes: 4, date: "August 18th, 2021")
 
 project1 = Project.create(title: "Hot Dog Lover", link: "https://hot-dog-lover.herokuapp.com/", youtube: "https://youtu.be/a4xBINdvanU", github: "https://github.com/MelissaFunk/hot-dog-lover-app", description: "Explore hot dog restaurants around San Francisco! Users can login/create an account to view restaurants and create a personalized hot dog. For the hot dog lover at heart ❤️ 🌭 ❤️", image: "https://i.imgur.com/R9JYj3d.png")
+project2 = Project.create(title: "Nicolas Cage Movies", link: "https://nic-cage-movies.herokuapp.com/", github: "https://github.com/MelissaFunk/nic-cage-movies", description: "A Nicolas Cage movie database where users can view movies and mark them as watched.", image: "https://i.imgur.com/eMs60bi.png")
 
 aboutcard1 = AboutCard.create(image: "https://cdn-icons-png.flaticon.com/128/1152/1152946.png", title: "Ambitious", description: "Passionate about learning and self-development.")
 aboutcard2 = AboutCard.create(image: "https://cdn-icons-png.flaticon.com/128/1632/1632870.png", title: "Dedicated", description: "Persistant and focused about results.")
