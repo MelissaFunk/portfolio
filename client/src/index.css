@@ -35,7 +35,7 @@ a:hover, a:link, a:visited, a:active {
   padding-top: 24px;
   border-bottom: 2px solid rgb(185, 217, 245);
 }
-
+ 
 .navbar-name {
   color:rgb(255, 160, 71)
 }
@@ -196,9 +196,9 @@ a:hover, a:link, a:visited, a:active {
   position: relative;
   width: 50%;
   margin: auto;
-  padding-top: 40px
+  padding-top: 40px;
 }
-
+ 
 .project-img {
   opacity: 1;
   display: block;
