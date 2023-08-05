@@ -15,7 +15,7 @@ function Projects() {
         <ProjectCard project={project} key={project.id}/>
       )
   }
-
+ 
   return(
     <div className="projects">
       <h1>PROJECTS</h1>
