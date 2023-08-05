@@ -168,7 +168,7 @@ a:hover, a:link, a:visited, a:active {
   height: 400px;
   display: inline-block;
   padding-top: 20px
-}
+} 
 
 .blog-img {
   height: 300px;
@@ -191,6 +191,10 @@ a:hover, a:link, a:visited, a:active {
 }
 
 /* PROJECTS */
+
+.projects {
+  margin-bottom: 10px
+}
 
 .project-img-container {
   position: relative;
